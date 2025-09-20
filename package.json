@@ -1,0 +1,23 @@
+{
+  "name": "evernote-backup",
+  "version": "1.0.0",
+  "description": "Evernote uses it's own file type, ENEX (Evernote Export). I want to convert it to Markdown and transfer my old notes to Obsidian which is the app I have been using recently for note taking.\r Evernote has become bloated with subscriptions and I am no longer able to use its free tier due to the number of notes I have saved over the years.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coligorm/Evernote-Backup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coligorm/Evernote-Backup/issues"
+  },
+  "homepage": "https://github.com/coligorm/Evernote-Backup#readme",
+  "devDependencies": {
+    "marked": "^16.3.0"
+  }
+}
